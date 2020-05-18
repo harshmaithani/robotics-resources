@@ -1,2 +1,2 @@
 # robotics-resources
-Resources for robotics
+Resources for robotics made by me.
